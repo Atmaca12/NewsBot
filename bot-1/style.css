@@ -1,0 +1,45 @@
+body {
+height:100%;
+width:100%;
+position:absolute;
+
+list-style-type: none;
+}
+
+
+a:link,a:visited {
+text-decoration: none;
+color: #e1dadc;
+font-weight: 500;
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+a:hover {
+color: #898385;
+
+}
+h4 {
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+margin-top: 20px; margin-bottom: 20px;
+border-bottom: 1px solid #3c061c;
+
+
+}
+.colrenklendir {
+background-color: #cd0d48;
+}
+.linkarkaplan {
+background-color: #880c32;
+}
+.yazilariskelet {
+background-color:#E3DDDD;
+border-radius: 3px;
+overflow: hidden;
+border:1px solid #AFA8A8;
+
+}
+.ustbar {
+border-bottom: 2px solid #cd0d48;
+background-color: #dddcdc;
+
+}
+
