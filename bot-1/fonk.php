@@ -1,9 +1,8 @@
 <?php
-// BU DOSYADA VERİTABANI BAĞLANTISI VE CURL OTURUMUNU SAĞLAYAN FONKSİYONUMUZ OLACAK
-// ### ALTERNATİF OLARAK SEN VERİLERİ İSTERSEN file_get_contents kullanarakta çekebilirsin.Sonuçta artık onuda biliyorsun :)
+
 
 $db = new PDO("mysql:host=localhost;dbname=botkayit;charset=utf8","root","annebabq123");
-// ## BURADA KENDİ MYSQL BİLGİLERİNİ YAZMALISIN, UNUTMA
+
 
 
 
